@@ -1,16 +1,17 @@
-## Hi there 👋
+# 안녕하세요, 김태균입니다.
 
-<!--
-**tk2026mainq/tk2026mainq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+한국기술교육대학교 자율전공 학생입니다.  
+C++과 Python을 공부하며, 게임 개발과 그래픽 프로그래밍을 탐색하고 있습니다.
 
-Here are some ideas to get you started:
+## Learning
+- **C++** — 기본 문법과 프로그램 구조를 익히고, 직접 코드를 작성하며 연습하고 있습니다.
+- **Python** — 문법과 활용 방법을 공부하며 프로그래밍 경험을 쌓고 있습니다.
+- **OpenGL** — 그래픽 프로그래밍을 공부하며 작은 게임을 만들기 위한 기초를 쌓고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Activities
+- 친구에게 **Python 기초**를 가르치며 설명과 실습 과제를 준비하고 있습니다.
+- **AI 도구**를 학습과 자료 정리에 활용하며, 실제로 도움이 되는 사용 방법을 찾아보고 있습니다.
+
+## Interests
+- 게임 개발과 컴퓨터 그래픽스
+- AI를 활용한 학습과 반복 업무 개선
